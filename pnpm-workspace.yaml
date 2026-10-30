@@ -1,0 +1,2 @@
+allowBuilds:
+  fixturify@https://codeload.github.com/mansona/node-fixturify/tar.gz/5954711a918cbe72658ce32e4938274e5742854e: true
