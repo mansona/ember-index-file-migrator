@@ -1,0 +1,28 @@
+{
+  "name": "ember-index-file-migrator",
+  "version": "0.0.0",
+  "description": "Move away from using nested index.hbs or index.js files",
+  "bin": "./bin/migrator.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.16.1",
+      "onFail": "download"
+    }
+  },
+  "packageManager": "pnpm@12.16.1",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^22.20.5",
+    "execa": "^10.2.1",
+    "fixturify": "^3.0.0",
+    "vitest": "^5.0.5",
+    "walk-sync": "^4.0.2"
+  }
+}
