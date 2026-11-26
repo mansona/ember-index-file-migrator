@@ -22,12 +22,5 @@
     "vitest": "^5.0.5",
     "walk-sync": "^4.0.2"
   },
-  "packageManager": "pnpm@12.16.1",
-  "devEngines": {
-    "packageManager": {
-      "name": "pnpm",
-      "version": "12.16.1",
-      "onFail": "download"
-    }
-  }
+  "packageManager": "pnpm@12.16.1"
 }
