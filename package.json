@@ -1,6 +1,6 @@
 {
   "name": "ember-index-file-migrator",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Move away from using nested index.hbs or index.js files",
   "keywords": [],
   "repository": {
